@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 Twisted-18.4.0-cp36-cp36m-win_amd64.whl
 t.py
+.idea
 
 # C extensions
 *.so
@@ -124,3 +125,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/misc.xml
+.idea/modules.xml
+.idea/mongoSettings.xml
+.idea/workspace.xml
+".idea/\350\261\206\347\223\243\350\257\273\344\271\246.iml"
+ip/
